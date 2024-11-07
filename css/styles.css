@@ -1090,6 +1090,233 @@ a:visited {
 
 }
 
+.experiment3 {
+
+    position: absolute;
+    font-weight: 900;
+    font-size: 100px;
+    top: 8200px;
+    left: 500px;
+    rotate: -5deg;
+    color: #1B1A55;
+    z-index: -1;
+
+}
+
+.experiment3_2 {
+
+    font-size: 110px;
+    top: 8195px;
+    left: 490px;
+    opacity: 80%;
+
+}
+
+.experiment3_3 {
+
+    font-size: 120px;
+    top: 8190px;
+    left: 480px;
+    opacity: 60%;
+
+}
+
+.experiment3_4 {
+
+    font-size: 130px;
+    top: 8185px;
+    left: 470px;
+    opacity: 40%;
+
+}
+
+.experiment3_5 {
+
+    font-size: 140px;
+    top: 8180px;
+    left: 460px;
+    opacity: 20%;
+
+}
+
+.experiment4 {
+
+    position: absolute;
+    font-weight: 200;
+    font-size: 200px;
+    top: 8300px;
+    left: 750px;
+    rotate: 15deg;
+    color: #501a55;
+    z-index: -1;
+
+}
+
+.experiment4_2 {
+
+    top: 8305px;
+    left: 755px;
+    opacity: 90%;
+    rotate: 20deg;
+
+}
+
+.experiment4_3 {
+
+    top: 8310px;
+    left: 760px;
+    opacity: 80%;
+    rotate: 25deg;
+
+}
+
+.experiment4_4 {
+
+    top: 8315px;
+    left: 765px;
+    opacity: 70%;
+    rotate: 30deg;
+
+}
+
+.experiment4_5 {
+
+    top: 8320px;
+    left: 770px;
+    opacity: 60%;
+    rotate: 35deg;
+
+}
+
+.experiment4_6 {
+
+    top: 8325px;
+    left: 775px;
+    opacity: 50%;
+    rotate: 40deg;
+
+}
+
+.experiment4_7 {
+
+    top: 8330px;
+    left: 780px;
+    opacity: 40%;
+    rotate: 45deg;
+
+}
+
+.experiment4_8 {
+
+    top: 8335px;
+    left: 785px;
+    opacity: 30%;
+    rotate: 50deg;
+
+}
+
+.experiment4_9 {
+
+    top: 8340px;
+    left: 790px;
+    opacity: 20%;
+    rotate: 55deg;
+
+}
+
+.experiment4_10 {
+
+    top: 8345px;
+    left: 795px;
+    opacity: 10%;
+    rotate: 60deg;
+
+}
+
+.experiment5 {
+
+    position: absolute;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 300px;
+    top: 8300px;
+    left: 100px;
+    rotate: 30deg;
+    color: #88184f;
+    z-index: -1;
+
+}
+
+.experiment5_2 {
+
+    left: 90px;
+    opacity: 95%;
+
+}
+
+.experiment5_3 {
+
+    left: 80px;
+    opacity: 90%;
+
+}
+
+.experiment5_4 {
+
+    left: 70px;
+    opacity: 85%;
+
+}
+
+.experiment5_5 {
+
+    left: 60px;
+    opacity: 80%;
+
+}
+
+.experiment5_6 {
+
+    left: 50px;
+    opacity: 75%;
+
+}
+
+.experiment5_7 {
+
+    left: 40px;
+    opacity: 70%;
+
+}
+
+.experiment5_8 {
+
+    left: 30px;
+    opacity: 65%;
+
+}
+
+.experiment5_9 {
+
+    left: 20px;
+    opacity: 60%;
+
+}
+
+.experiment5_10 {
+
+    left: 10px;
+    opacity: 55%;
+
+}
+
+.experiment5_11 {
+
+    left: 0px;
+    opacity: 50%;
+
+}
+
 /*--------------------------------*/
 
 
